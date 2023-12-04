@@ -35,7 +35,7 @@ Jeśli chcesz pobrać w postaci zip-a:
 1. Wybierz opcje 'Open Folder'.
 1. Otwórz folder z pobranym kodem projektu (folder, w którym znajduje się plik package.json).
 1. Otwórz Terminal. Kliknij na górnym pasku w 'Terminal' -> 'New Terminal'.
-1. W otwartym na dole terminalu wpisz `yarn install`` i wciśnij Enter.
+1. W otwartym na dole terminalu wpisz `yarn install` i wciśnij Enter.
 1. Teraz będą się pobierać biblioteki z kodem, z których korzystają automatyczne testy. To może potrwać chwilę.
 1. Gdy pobieranie bibliotek sie zakończy wpisz w tym samym terminalu: `yarn test` i wcisnij Enter.
 1. Testy powinny się uruchomić, przegądarka Chrome powinna wystartować i zasymulować kliknięcia z naszych testów.
